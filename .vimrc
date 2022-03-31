@@ -1,3 +1,6 @@
+" create symbolic link in ~:
+" ln vimrc/.vimrc .vimrc
+
 :set relativenumber	" show relative line numbers
 :set number		" always show line numbers
 :set ignorecase		" searches case insensitive
